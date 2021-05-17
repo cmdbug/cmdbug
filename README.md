@@ -1,3 +1,8 @@
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/cmdbug/count.svg" />
+</p>
+
 ![teng's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmdbug&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmdbug&layout=compact&theme=react)
 
