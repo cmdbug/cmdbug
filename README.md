@@ -1,5 +1,4 @@
 <p align="center"> 
-  Visitor count<br>
   <img src="https://profile-counter.glitch.me/cmdbug/count.svg" />
 </p>
 
@@ -19,12 +18,12 @@
 ├──────┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴────────┤     ┌───┐     ├───┼───┼───┼───┤
 │ Shift  │ Z │ X │ C │ V │ B │ N │ M │< ,│> .│? /│  Shift   │     │ ↑ │     │ 1 │ 2 │ 3 │   │
 ├─────┬──┴─┬─┴──┬┴───┴───┴───┴───┴───┴──┬┴───┼───┴┬────┬────┤ ┌───┼───┼───┐ ├───┴───┼───┤ E││
-│ Ctrl│    │Alt │        WZTENG         │ Alt│ Fn │    │Ctrl│ │ ← │ ↓ │ → │ │   0   │ . │←─┘│
+│ Ctrl│    │Alt │         teng          │ Alt│ Fn │    │Ctrl│ │ ← │ ↓ │ → │ │   0   │ . │←─┘│
 └─────┴────┴────┴───────────────────────┴────┴────┴────┴────┘ └───┴───┴───┘ └───────┴───┴───┘
 ```
 
 <!--
-**WZTENG/WZTENG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**teng/teng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
