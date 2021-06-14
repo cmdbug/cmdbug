@@ -3,8 +3,8 @@
 -
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
   ![Objective-C](https://img.shields.io/badge/-Objective%20C-333333?style=flat&logo=c)
   ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -13,10 +13,13 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
 -
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=androidstudio)
   ![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=xcode)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
+  ![CLion](https://img.shields.io/badge/-CLion-333333?style=flat&logo=clion)
 
 
 ![teng's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmdbug&show_icons=true&hide=issues&line_height=24&include_all_commits=true&theme=react)
