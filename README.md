@@ -12,6 +12,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
 -
   ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
