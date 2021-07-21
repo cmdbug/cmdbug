@@ -15,6 +15,7 @@
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
 -
   ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
+  ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 -
