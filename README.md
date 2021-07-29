@@ -24,7 +24,10 @@
   ![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=xcode)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
   ![CLion](https://img.shields.io/badge/-CLion-333333?style=flat&logo=clion)
-
+-
+  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
+  ![macOS](https://img.shields.io/badge/-macOS-333333?style=flat&logo=apple)
 
 ![teng's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmdbug&show_icons=true&hide=issues&line_height=24&include_all_commits=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmdbug&layout=compact&theme=react)
