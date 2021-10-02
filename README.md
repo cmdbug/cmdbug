@@ -27,7 +27,6 @@
 -
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
-  ![macOS](https://img.shields.io/badge/-macOS-333333?style=flat&logo=apple)
   ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
   ![iOS](https://img.shields.io/badge/-iOS-333333?style=flat&logo=apple)
 
