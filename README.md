@@ -24,6 +24,7 @@
   ![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=xcode)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
   ![CLion](https://img.shields.io/badge/-CLion-333333?style=flat&logo=clion)
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellijidea)
 -
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
