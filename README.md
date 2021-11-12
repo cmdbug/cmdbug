@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://profile-counter.glitch.me/cmdbug/count.svg" /> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="32px"> 
 
-<img align='right' src='./00.webp' height='130px'>
+<img align='right' src='./00.webp' height='120px'>
 
 -
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
