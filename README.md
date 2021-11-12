@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://profile-counter.glitch.me/cmdbug/count.svg" /> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="32px"> 
 
-<img align='right' src='./00.webp' height='120px'>
+<img align='right' src='./00.webp' height='130px'>
 
 -
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
@@ -32,6 +32,8 @@
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
   ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
   ![iOS](https://img.shields.io/badge/-iOS-333333?style=flat&logo=apple)
+
+<br/>
 
 ![teng's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmdbug&show_icons=true&hide=issues&line_height=24&include_all_commits=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmdbug&layout=compact&theme=react)
