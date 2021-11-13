@@ -34,7 +34,7 @@
   ![iOS](https://img.shields.io/badge/-iOS-333333?style=flat&logo=apple)
 
 ![teng's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmdbug&show_icons=true&hide=issues&line_height=24&include_all_commits=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmdbug&layout=compact&theme=react&card_width=290)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmdbug&layout=compact&theme=react&card_width=285)
 
 ```
 ┌───┐   ┌───┬───┬───┬───┐ ┌───┬───┬───┬───┐ ┌───┬───┬───┬───┐ ┌───┬───┬───┐
