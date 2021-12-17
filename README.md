@@ -29,7 +29,7 @@
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellijidea)
 -
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
   ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
   ![iOS](https://img.shields.io/badge/-iOS-333333?style=flat&logo=apple)
 
