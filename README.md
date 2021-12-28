@@ -33,7 +33,7 @@
   ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
   ![iOS](https://img.shields.io/badge/-iOS-333333?style=flat&logo=apple)
 -
-  ![Raspberry PI](https://img.shields.io/badge/-Raspberry%20PI-333333?style=flat&logo=raspberrypi)
+  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=raspberrypi&logoColor=c51d4a)
 
 ![teng's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmdbug&show_icons=true&hide=issues&line_height=24&include_all_commits=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmdbug&layout=compact&theme=react&card_width=280)
