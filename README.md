@@ -15,6 +15,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
+  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
 -
   ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
   ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
