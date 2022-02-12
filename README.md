@@ -34,6 +34,7 @@
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
   ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
   ![iOS](https://img.shields.io/badge/-iOS-333333?style=flat&logo=apple)
+  ![macOS](https://img.shields.io/badge/-macOS-333333?style=flat&logo=macos)
 -
   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=raspberrypi&logoColor=c51d4a)
 
