@@ -1,4 +1,4 @@
-# 𝗛𝗲𝗹𝗹𝗼！<img src="https://profile-counter.glitch.me/cmdbug/count.svg" /> <img src="./01.gif" width="32px"> 
+# 𝗛𝗲𝗹𝗹𝗼！<img src="https://profile-counter.glitch.me/cmdbug/count.svg" /> <img src="./01.gif" width="32px" height="32px"> 
 
 <img align='right' src='./00.webp' height='140px' loading="lazy">
 
