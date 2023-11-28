@@ -16,11 +16,13 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
+  ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
 -
   ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
   ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+  ![Svelte](https://img.shields.io/badge/-Svelte-333333?style=flat&logo=svelte)
 -
   ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=androidstudio)
