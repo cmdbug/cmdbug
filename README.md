@@ -30,6 +30,7 @@
   ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
   ![CLion](https://img.shields.io/badge/-CLion-333333?style=flat&logo=clion)
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellijidea)
+  ![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=flat&logo=webstorm)
 -
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
