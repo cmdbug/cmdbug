@@ -23,6 +23,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
   ![Svelte](https://img.shields.io/badge/-Svelte-333333?style=flat&logo=svelte)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 -
   ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=androidstudio)
@@ -37,6 +38,7 @@
   ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
   ![iOS](https://img.shields.io/badge/-iOS-333333?style=flat&logo=apple)
   ![macOS](https://img.shields.io/badge/-macOS-333333?style=flat&logo=macos)
+  ![HarmonyOS](https://img.shields.io/badge/-HarmonyOS-333333?style=flat&logo=HarmonyOS)
 -
   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=raspberrypi&logoColor=c51d4a)
 
